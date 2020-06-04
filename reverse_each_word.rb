@@ -4,4 +4,5 @@
    array1.each do |string|
      return_array << string.reverse
   end 
+  return_array.join('') 
   end
