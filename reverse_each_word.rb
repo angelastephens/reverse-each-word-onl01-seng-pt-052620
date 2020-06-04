@@ -1,5 +1,5 @@
- def reverse_each_word(sentences)
-   sentences.each do |sentence|
-     puts "Hello there, and how are you? #{sentence.reverse}"
+ def reverse_each_word(string)
+   string.each do |sting|
+     puts "Hello there, and how are you? #{stringe.reverse}"
   end 
   end
